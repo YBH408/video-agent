@@ -1,0 +1,33 @@
+# API 密钥
+.env
+.env.*
+!.env.example
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 生成的视频和图片
+outputs/
+output/
+generated/
+*.mp4
+*.mov
+env/
+*.webm
+*.avi
+*.mkv
+runs/
